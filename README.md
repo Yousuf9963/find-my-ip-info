@@ -219,3 +219,19 @@ A high proportion of malware and device tracking software is installed via phish
 Install comprehensive antivirus software and keep it up to date. For example, Kaspersky’s Anti-Virus protection guards you from viruses on your PC and Android devices, secures and stores your passwords and private documents, and encrypts the data you send and receive online with VPN.
 
 Protecting your IP address is a crucial aspect of protecting your online identity. Securing it through these steps is a way to stay safe against the wide variety of cybercriminals' attacks.
+
+# Installation
+
+pkg update && pkg upgrade -y
+
+pkg install git
+
+pkg install python3
+
+git clone https://github.com/Yousuf9963/find-my-ip-info.git
+
+cd find-my-ip-info
+
+python3 find-my-IP.py
+
+# Thank you ...
