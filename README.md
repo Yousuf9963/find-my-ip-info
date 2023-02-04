@@ -232,6 +232,10 @@ git clone https://github.com/Yousuf9963/find-my-ip-info.git
 
 cd find-my-ip-info
 
+chmod +x *
+
 python3 find-my-IP.py
+
+Donation: https://www.buymeacoffee.com/junioprogrammer
 
 # Thank you ...
